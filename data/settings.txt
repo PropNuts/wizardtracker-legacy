@@ -1,0 +1,7 @@
+minLapTime,2
+pilotName,Pilot 1, Pilot 2, Pilot 3, Pilot 4
+rssiThreshold,220, 220, 220, 220
+rssiMin,100, 100, 100, 100
+rssiMax,300, 300, 300, 300
+lpfFactor,0.5
+calibrationMargin,0.95
